@@ -2,20 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Francisco-Jara-v.Francisco-Jara-v&"  />
-</div>
-
-###
-
 <h1 align="center"><b>Hola, soy Francisco Jara</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
@@ -26,17 +12,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <b>👩‍💻Sobre mí</b>
 
+
+<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="20" />
+
+
+<hr>
+
+<h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> Sobre mí</h2>
+
+```
 🎓 Estudiante de **Técnico en Informática**  
 💻 Interesado en el desarrollo backend y la creación de sistemas prácticos  
 🔧 Me gusta trabajar con PHP, Laravel, Python y MySQL  
 📁 Actualmente mejorando mi portafolio y preparando futuros proyectos  
 🚀 Enfocado en aprender y crecer como desarrollador  
+```
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Francisco-Jara-v.Francisco-Jara-v&"  />
+</div>
+<hr>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
-<br>
 
 <div align="left">
   
@@ -155,20 +153,21 @@ Aplicación web para gestionar inventario, clientes, contratos y reportes.
 
 ---
 
-## 📊 Estadísticas
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Estadísticas</h2>
 <div align="center">
 
-<!-- Tarjeta Pac-Man -->
-<img src="https://github-readme-stats.vercel.app/api/pacman?username=Francisco-Jara-v&theme=cobalt" height="160">
-
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Francisco-Jara-v&show_icons=true&theme=cobalt&hide_border=true" height="160">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Francisco-Jara-v&show_icons=true&theme=cobalt&hide_border=true" height="160">
 
 <!-- Lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jara-v&layout=compact&theme=cobalt&hide_border=true" height="160">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Francisco-Jara-v&layout=compact&theme=cobalt&hide_border=true" height="160">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Francisco-Jara-v&theme=cobalt&area=true&hide_border=true" height="160">
+
+
 
 </div>
-
 
 
 
