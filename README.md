@@ -34,105 +34,75 @@
 </div>
 <hr>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
+<details  align="center">
+  
+  <summary><h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>Skills</b></h2></summary>
 
-<div align="left">
+  <div align="center">
   
   #### 🖥️ Lenguajes <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
   #### 🧰 Frameworks
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
 
   #### 🗄️ Bases de Datos
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   
   #### 🛠️ Otras herramientas
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
 
-</div>
-
+  </div>
+</details >
 
 ---
+<details  align="center">
+  <summary><h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWliems0a2IwczRtOGdwOGJsb3l3N29nZ2RqZ212aW55YXpsd2k1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3dndBbKC3idIVzaG1O/giphy.gif" width="40"> Certificaciones y Cursos Relevantes</h2></summary>
+  
+  ### 🎓 Instituto Profesional IACC  
+  #### 📜 Diplomado: Fundamentos de Programación y Bases de Datos
+  - Fundamentos de programación y bases de datos
+  - Diseño y consulta de bases de datos relacionales (SQL)
+  - Capacidad para resolver problemas mediante algoritmos
 
-<h1 align="left"><b> 🎓 Certificaciones y Cursos Relevantes</b> </h1>
+  ---
 
-### 🎓 Instituto Profesional IACC  
-#### 📜 Diplomado: Fundamentos de Programación y Bases de Datos
-Diplomado de 400 horas centrado en los fundamentos de la programación y el diseño de bases de datos, aprobado según la normativa académica vigente.
+  ### 📘 Cisco Networking Academy
+  - 🐍 Fundamentos de Python 1
+  <img align="center" src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="60" />
+  
+  - 🖥️ Conceptos Básicos de Hardware
+  <img align="center" src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="60" />
+  
+  - 🔐 Introducción a la Ciberseguridad
+  <img align="center" src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="60" />
+  
+  - 💻 IT Essentials: PC Hardware and Software
+</details>
 
-**Contenidos cursados:**
-- Introducción a la Programación  
-- Programación  
-- Estructura de Datos  
-- Bases de Datos  
-
-**Habilidades adquiridas:**
-- Fundamentos sólidos de programación y lógica computacional  
-- Manejo de estructuras de datos básicas  
-- Diseño y consulta de bases de datos relacionales (SQL)  
-- Capacidad para resolver problemas mediante algoritmos  
-
----
-
-### 📘 Cisco Networking Academy
-
-#### 🐍 Fundamentos de Python 1
-- Variables, operadores y estructuras de control  
-- Funciones y modularización  
-- Listas, cadenas, ciclos y programación estructurada
-<p align="left">
-  <a href="https://badges.parchment.com/public/assertions/IFV0ENhuQKilcgvAaGXMqA">
-    <img src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="80" style="margin: 20px;">
-  </a>
-</p>
-
-#### 🖥️ Conceptos Básicos de Hardware de Computadora
-- Identificación de componentes  
-- Ensamblaje y mantenimiento básico  
-- Diagnóstico y solución de fallas
-<p align="left">
-  <a href="https://badges.parchment.com/public/assertions/ceT7qbksRBSOzG7B7ue8Eg">
-    <img src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="80" style="margin: 20px;">
-  </a>
-</p>
-
-#### 🔐 Introducción a la Ciberseguridad
-- Principios fundamentales  
-- Riesgos y vulnerabilidades comunes  
-- Criptografía básica y buenas prácticas
-<p align="left">
-   <a href="https://badges.parchment.com/public/assertions/ZJWJeN-GStOJhYh2vPvEsw">
-    <img src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="80" style="margin: 20px;">
-  </a>
-</p>
-
-#### 💻 IT Essentials: PC Hardware and Software
-- Ensamblaje completo de PC  
-- Instalación y mantenimiento de sistemas  
-- Solución de problemas técnicos  
-
----
+  ---
 
 
-
-## 🧩 Proyectos
-
-### 🔧 Sistema de Administración de Arriendo (En desarrollo)
+<details  align="center">
+  <summary>
+<h2>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR4YTEycHl4bnNoeGM1ZWZsdGl3c3luajhzZGs0cGk3ajNubG83ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="40"> Proyectos</h2>
+  </summary>
+<h3> 🔧 Sistema de Administración de Arriendo (En desarrollo) </h3>
 Aplicación web para gestionar inventario, clientes, contratos y reportes.
 
 **Funcionalidades:**
@@ -143,11 +113,13 @@ Aplicación web para gestionar inventario, clientes, contratos y reportes.
 
 🛠 **Tecnologías:** PHP · Laravel · MySQL  
 📌 **Repositorio:** *Próximamente subiré avances*
+</details>
 
 ---
 
-## 📫 Contacto
-📩 **Email:** francisco.jara.valdes95@gmail.com
+<h2 align="center"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNlbGQxc2h1amdtazhiMDVhOWt6ZndwMHllM2ZqNnM1aDJ2anlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbTm1T8UrD6TtKn6bS/giphy.gif" width="30"> Contacto</h2>
+<p align="center"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" alt="gmail logo"  /> francisco.jara.valdes95@gmail.com</p>
 
 ###
 
