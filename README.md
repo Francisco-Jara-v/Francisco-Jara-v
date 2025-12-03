@@ -119,7 +119,7 @@ Aplicación web para gestionar inventario, clientes, contratos y reportes.
 
 <h2 align="center"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNlbGQxc2h1amdtazhiMDVhOWt6ZndwMHllM2ZqNnM1aDJ2anlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbTm1T8UrD6TtKn6bS/giphy.gif" width="30"> Contacto</h2>
-<p align="center"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" alt="gmail logo"  /> francisco.jara.valdes95@gmail.com</p>
+<p align="center">Email: francisco.jara.valdes95@gmail.com</p>
 
 ###
 
