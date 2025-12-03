@@ -17,8 +17,7 @@
 ###
 
 <h1 align="center"><b>Hola, soy Francisco Jara</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br><br>
-
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Informática;Backend+Developer+en+formación;Apasionado+por+PHP+y+Laravel;Aprendiz+constante;Construyendo+mi+portafolio+💻">
@@ -35,6 +34,23 @@
 📁 Actualmente mejorando mi portafolio y preparando futuros proyectos  
 🚀 Enfocado en aprender y crecer como desarrollador  
 
+---
+<h1 align="left"><b>🏅 Insignias y Certificaciones</b> </h1>
+
+
+<p align="left">
+  <a href="https://badges.parchment.com/public/assertions/IFV0ENhuQKilcgvAaGXMqA">
+    <img src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="80" style="margin: 20px;">
+  </a>
+
+  <a href="https://badges.parchment.com/public/assertions/ceT7qbksRBSOzG7B7ue8Eg">
+    <img src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="80" style="margin: 20px;">
+  </a>
+
+  <a href="https://badges.parchment.com/public/assertions/ZJWJeN-GStOJhYh2vPvEsw">
+    <img src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="80" style="margin: 20px;">
+  </a>
+</p>
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
@@ -70,17 +86,6 @@
 ## 🧩 Proyectos
 - 🔧 **Sistema de administración de arriendo** (en desarrollo)
 - 🚀 Pronto más proyectos…
-
----
-
-## 🏅 Insignias y Certificaciones
-
-<p align="center">
-  <a href="https://www.credly.com/badges/acfc55f4-8d1c-44ae-8e15-c854e9e178a6/public_url">
-    <img src="https://images.credly.com/size/340x340/images/0e223a73-52df-4fce-8a26-cd999ee23e10/CyberOps_Badge.png" width="140">
-  </a>
-</p>
-
 
 ---
 
