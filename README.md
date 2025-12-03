@@ -14,7 +14,7 @@
 
 
 
-<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="20" />
+<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
 
 
 <hr>
