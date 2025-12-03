@@ -35,24 +35,6 @@
 🚀 Enfocado en aprender y crecer como desarrollador  
 
 ---
-<h1 align="left"><b>🏅 Insignias y Certificaciones</b> </h1>
-
-
-<p align="left">
-  <a href="https://badges.parchment.com/public/assertions/IFV0ENhuQKilcgvAaGXMqA">
-    <img src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="80" style="margin: 20px;">
-  </a>
-
-  <a href="https://badges.parchment.com/public/assertions/ceT7qbksRBSOzG7B7ue8Eg">
-    <img src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="80" style="margin: 20px;">
-  </a>
-
-  <a href="https://badges.parchment.com/public/assertions/ZJWJeN-GStOJhYh2vPvEsw">
-    <img src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="80" style="margin: 20px;">
-  </a>
-</p>
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
 <br>
 
@@ -76,16 +58,93 @@
   #### 🛠️ Otras herramientas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 
 </div>
 
 
+---
+
+<h1 align="left"><b> 🎓 Certificaciones y Cursos Relevantes</b> </h1>
+
+### 🎓 Instituto Profesional IACC  
+#### 📜 Diplomado: Fundamentos de Programación y Bases de Datos
+Diplomado de 400 horas centrado en los fundamentos de la programación y el diseño de bases de datos, aprobado según la normativa académica vigente.
+
+**Contenidos cursados:**
+- Introducción a la Programación  
+- Programación  
+- Estructura de Datos  
+- Bases de Datos  
+
+**Habilidades adquiridas:**
+- Fundamentos sólidos de programación y lógica computacional  
+- Manejo de estructuras de datos básicas  
+- Diseño y consulta de bases de datos relacionales (SQL)  
+- Capacidad para resolver problemas mediante algoritmos  
 
 ---
 
+### 📘 Cisco Networking Academy
+
+#### 🐍 Fundamentos de Python 1
+- Variables, operadores y estructuras de control  
+- Funciones y modularización  
+- Listas, cadenas, ciclos y programación estructurada
+<p align="left">
+  <a href="https://badges.parchment.com/public/assertions/IFV0ENhuQKilcgvAaGXMqA">
+    <img src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="80" style="margin: 20px;">
+  </a>
+</p>
+
+#### 🖥️ Conceptos Básicos de Hardware de Computadora
+- Identificación de componentes  
+- Ensamblaje y mantenimiento básico  
+- Diagnóstico y solución de fallas
+<p align="left">
+  <a href="https://badges.parchment.com/public/assertions/ceT7qbksRBSOzG7B7ue8Eg">
+    <img src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="80" style="margin: 20px;">
+  </a>
+</p>
+
+#### 🔐 Introducción a la Ciberseguridad
+- Principios fundamentales  
+- Riesgos y vulnerabilidades comunes  
+- Criptografía básica y buenas prácticas
+<p align="left">
+   <a href="https://badges.parchment.com/public/assertions/ZJWJeN-GStOJhYh2vPvEsw">
+    <img src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="80" style="margin: 20px;">
+  </a>
+</p>
+
+#### 💻 IT Essentials: PC Hardware and Software
+- Ensamblaje completo de PC  
+- Instalación y mantenimiento de sistemas  
+- Solución de problemas técnicos  
+
+---
+
+
+
 ## 🧩 Proyectos
-- 🔧 **Sistema de administración de arriendo** (en desarrollo)
-- 🚀 Pronto más proyectos…
+
+### 🔧 Sistema de Administración de Arriendo (En desarrollo)
+Aplicación web para gestionar inventario, clientes, contratos y reportes.
+
+**Funcionalidades:**
+- Gestión de clientes  
+- Control de inventario y equipos  
+- Generación de contratos de arriendo  
+- Reportes mensuales y organización por años  
+
+🛠 **Tecnologías:** PHP · Laravel · MySQL  
+📌 **Repositorio:** *Próximamente subiré avances*
 
 ---
 
@@ -93,6 +152,26 @@
 📩 **Email:** francisco.jara.valdes95@gmail.com
 
 ###
+
+---
+
+## 📊 Estadísticas
+<div align="center">
+
+<!-- Tarjeta Pac-Man -->
+<img src="https://github-readme-stats.vercel.app/api/pacman?username=Francisco-Jara-v&theme=cobalt" height="160">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Francisco-Jara-v&show_icons=true&theme=cobalt&hide_border=true" height="160">
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jara-v&layout=compact&theme=cobalt&hide_border=true" height="160">
+
+</div>
+
+
+
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
