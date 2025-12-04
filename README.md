@@ -137,7 +137,7 @@ Aplicación web para gestionar inventario, clientes, contratos y reportes.
 <!-- Lenguajes más usados -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Francisco-Jara-v&layout=compact&theme=cobalt&hide_border=true" height="160">
 
-<a href="https://github.com/bindian0509/bindian0509">
+<a href="https://github.com/Francisco-Jara-v">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francisco-Jara-v&theme=cobalt&hide_border=true)](https://github.com/Francisco-Jara-v" alt="Francisco GitHub Stats Graph"/>
 </a>
 
