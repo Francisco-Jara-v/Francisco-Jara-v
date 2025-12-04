@@ -138,7 +138,11 @@ Aplicación web para gestionar inventario, clientes, contratos y reportes.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Francisco-Jara-v&layout=compact&theme=cobalt&hide_border=true" height="160">
 
 <a href="https://github.com/Francisco-Jara-v">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francisco-Jara-v&theme=cobalt&hide_border=true)](https://github.com/Francisco-Jara-v" alt="Francisco GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francisco-Jara-v&theme=cobalt&hide_border=true alt="Francisco GitHub Stats Graph"/>
+</a>
+
+<a href="https://github.com/Francisco-Jara-v">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco-Jara-v&theme=cobalt" alt="Francisco GitHub Streak Stats"/>
 </a>
 
 
