@@ -41,30 +41,30 @@
   <div align="center">
   
   #### 🖥️ Lenguajes <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" title="PHP"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="html5"  />
 
   #### 🧰 Frameworks
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" title="Laravel"  />
   <img width="12" />
 
   #### 🗄️ Bases de Datos
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL"  />
   <img width="12" />
   
   #### 🛠️ Otras herramientas
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VsCode"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" title="Trello"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" title="Pycharm"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" title="Notion"  />
 
   </div>
 </details >
@@ -83,13 +83,13 @@
 
   ### 📘 Cisco Networking Academy
   - 🐍 Fundamentos de Python 1
-  <img align="center" src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="60" />
+  <img align="center" src="https://api.badgr.io/public/assertions/IFV0ENhuQKilcgvAaGXMqA/image" width="60" title="Fundamentos de Python 1"/>
   
   - 🖥️ Conceptos Básicos de Hardware
-  <img align="center" src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="60" />
+  <img align="center" src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="60" title="Conceptos Básicos de Hardware"/>
   
   - 🔐 Introducción a la Ciberseguridad
-  <img align="center" src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="60" />
+  <img align="center" src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="60" title="Introducción a la Ciberseguridad"/>
   
   - 💻 IT Essentials: PC Hardware and Software
 </details>
