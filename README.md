@@ -22,7 +22,7 @@
 <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> Sobre mí</h2>
 
 ```
-🎓 Estudiante de **Técnico en Informática**  
+🎓 Estudiante de Técnico en Informática  
 💻 Interesado en el desarrollo backend y la creación de sistemas prácticos  
 🔧 Me gusta trabajar con PHP, Laravel, Python y MySQL  
 📁 Actualmente mejorando mi portafolio y preparando futuros proyectos  
@@ -32,6 +32,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Francisco-Jara-v.Francisco-Jara-v&"  />
 </div>
+
 <hr>
 
 <details  align="center">
@@ -56,6 +57,7 @@
   <img width="12" />
   
   #### 🛠️ Otras herramientas
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux" alt="linux-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VsCode"  />
@@ -87,6 +89,12 @@
   
   - 🖥️ Conceptos Básicos de Hardware
   <img align="center" src="https://api.badgr.io/public/assertions/ceT7qbksRBSOzG7B7ue8Eg/image" width="60" title="Conceptos Básicos de Hardware"/>
+
+  - 🐧 Fundamentos de Linux
+  <img align="center" width="60" src="https://badges.parchment.com/public/assertions/C_eV8e8LRAe_vEVqpsd5JA/image" title="Fundamentos de Linux" alt="image">
+
+  - 🐧 Linux Unhatched
+  <img align="center" width="60" title="Linux Unhatched" alt="image" src="https://badges.parchment.com/public/assertions/q_LOYFYCRaWSkVvyvJSE3A/image">
   
   - 🔐 Introducción a la Ciberseguridad
   <img align="center" src="https://api.badgr.io/public/assertions/ZJWJeN-GStOJhYh2vPvEsw/image" width="60" title="Introducción a la Ciberseguridad"/>
