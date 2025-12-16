@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hola, soy Francisco Jara</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/Francisco-Jara-v">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Informática;Backend+Developer+en+formación;Apasionado+por+PHP+y+Laravel;Aprendiz+constante;Construyendo+mi+portafolio+💻">
   </a>
 </p>
